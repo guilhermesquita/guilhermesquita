@@ -1,4 +1,4 @@
-## <h1 align="center"> Olah mundo! Sou o Guilherme👋</h1>
+## <h1 align="center"> Olá mundo! Sou o Guilherme👋</h1>
 
 /<div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guirmes_/)
