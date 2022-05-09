@@ -1,13 +1,15 @@
-### Olah mundo! Sou o Guilherme👋
+## <h1 align="center"> Olah mundo! Sou o Guilherme👋</h1>
+
+/<div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guirmes_/)
-###
+
+ </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermesquita&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesquita)](https://github.com/anuraghazra/github-readme-stats)
 #
-
-<div>
+#<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60px" />
