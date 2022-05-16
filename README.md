@@ -26,6 +26,13 @@ Estou iniciando minha carreira na área, atualmente busco minha oportunidade de 
 <br><br><br>
 </p>
 <br>
+
+##
+
+<p align="center">TECNOLOGIAS QUE CONHEÇO
+<br><br><br>
+</p>
+
 <div align = "center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
