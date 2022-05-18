@@ -16,8 +16,7 @@
 
 ## <h3>🦰  &nbsp; Sobre mim 
  
- <img align="right" height="210px" 
-       src="https://github-readme-stats.vercel.app/api?username=guilhermesquita&count_private=true&show_icons=true&theme=rose_pine&hide_rank=true&custom_title=Minhas estatísticas&hide_border=true&include_all_commits=true"/>
+ <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesquita&layout=compact&langs_count=7&theme=dracula"/>
 </h3>
  
  <p align="left">Olá, tudo bem? Seja bem-vindo ao meu perfil GitHub e muito obrigado pela visita :) </br><br>
