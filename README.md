@@ -1,6 +1,6 @@
 ## <h1 align="center"> Olá mundo! Sou o Guilherme👋</h1>
 
-<p align="center">Desenvolvedor React | Manaus | BR</p>
+<p align="center">Desenvolvedor Front-End | Manaus | BR</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/fernanda-leite-felix/">
