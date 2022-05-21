@@ -3,7 +3,7 @@
 <p align="center">Desenvolvedor Front-End | Manaus | BR</p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/fernanda-leite-felix/">
+  <a href="https://www.linkedin.com/in/guilherme-mesquita-68a73b1a4/">
     <img height="25px" alt="My Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:guirozmesquita@gmail.com">
