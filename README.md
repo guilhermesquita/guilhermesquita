@@ -29,7 +29,7 @@ Estou iniciando minha carreira na área, atualmente busco minha oportunidade de 
 
 ##
 
-<p align="center">TECNOLOGIAS QUE CONHEÇO
+<p align="center"><strong>TECNOLOGIAS QUE CONHEÇO<strong>
 <br><br><br>
 </p>
 
