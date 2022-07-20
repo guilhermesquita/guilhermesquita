@@ -49,7 +49,7 @@ Estou iniciando minha carreira na área, atualmente busco minha oportunidade de 
    ##
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesquita&exclude_repo=github-readme-stats,fernandaflx.github.io&langs_count=10&layout=compact&theme=rose_pine&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesquita&exclude_repo=github-readme-stats,guilhermesquita.github.io&langs_count=10&layout=compact&theme=rose_pine&hide_border=true" />
   </p>
   
    ##
