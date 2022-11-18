@@ -20,7 +20,7 @@
   <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=guilhermesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
  <p align="left">Olá, tudo bem? Seja bem-vindo ao meu perfil GitHub e muito obrigado pela visita :) </br><br>
-Me chamo Guilherme, tenho 19 anos, sou cristão convicto e moro na cidade de Manaus. Formando em Desenvolvimento Full-Stack pela Labenu com conhecimentos em básicos do Front-End até integrações de Api´s e desenvolvimento Back-End com NodeJs. Construo aplicações Front-End simples desde 2020 à microempresas de minha cidade como incentivo ao meu desenvolvimento de hard-skill.
+Me chamo Guilherme, tenho 19 anos, sou cristão convicto e moro na cidade de Manaus. Formando em Desenvolvimento Full-Stack pela Labenu com conhecimentos em básicos do Front-End até integrações de Api´s e desenvolvimento Back-End com NodeJs. <br/>Construo aplicações Front-End simples desde 2020 à microempresas de minha cidade como incentivo ao meu desenvolvimento de hard-skill.
 <br><br><br>
 </p>
 <br>
