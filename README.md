@@ -20,7 +20,7 @@
   <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=guilhermesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
  <p align="left">Olá, tudo bem? Seja bem-vindo ao meu perfil GitHub e muito obrigado pela visita :) </br><br>
-Me chamo Guilherme, tenho 19 anos, sou cristão convicto e moro na cidade de Manaus. Desenvolvo Front-End com integrações de Api´s e Back-End com NodeJs. <br/><br/>Construo aplicações Front-End simples desde 2020 à microempresas de minha cidade como incentivo ao meu desenvolvimento de hard-skill.
+Me chamo Guilherme, tenho 19 anos, sou cristão convicto e moro na cidade de Manaus. Aqui você encontrará diversos projetos que desenvolvi ao longo do tempo, desde pequenos scripts até grandes aplicações. Acredito que o conhecimento deve ser compartilhado e é por isso que estou sempre buscando aprender coisas novas e aprimorar minhas habilidades de programação. <br/><br/>Construo aplicações Front-End simples desde 2020 à microempresas de minha cidade como incentivo ao meu desenvolvimento de hard-skill. Espero que você encontre algo interessante em meu repositório e que meus projetos possam ser úteis para você. Sinta-se à vontade para explorar e, se tiver alguma dúvida, não hesite em entrar em contato!
 <br><br><br>
 </p>
 <br>
