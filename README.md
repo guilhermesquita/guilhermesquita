@@ -19,8 +19,17 @@
 
   <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=guilhermesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
- <p align="left">Olá, tudo bem? Seja bem-vindo ao meu perfil GitHub e muito obrigado pela visita :) </br><br>
-Me chamo Guilherme, tenho 19 anos, sou cristão convicto e moro na cidade de Manaus. Aqui você encontrará diversos projetos que desenvolvi ao longo do tempo, desde pequenos scripts até grandes aplicações. Acredito que o conhecimento deve ser compartilhado e é por isso que estou sempre buscando aprender coisas novas e aprimorar minhas habilidades de programação. <br/><br/>Construo aplicações Front-End simples desde 2020 à microempresas de minha cidade como incentivo ao meu desenvolvimento de hard-skill. Espero que você encontre algo interessante em meu repositório e que meus projetos possam ser úteis para você. Sinta-se à vontade para explorar e, se tiver alguma dúvida, não hesite em entrar em contato!
+ <p align="left">Seja bem-vindo ao meu perfil GitHub e muito obrigado pela visita :) </br><br>
+Olá! Me chamo Guilherme Mesquita, sou um desenvolvedor full-stack apaixonado por tecnologia, atualmente com 20 anos de idade e cristão convicto. <br>Minha paixão pelo mundo da programação começou cedo e desde então tenho me dedicado a aprimorar minhas habilidades, especialmente nas tecnologias Node.js e Spring Framework nas quais possuo experiências profissionais no back-end e ReactJs e Vuejs no Front-end.
+<br><br>
+🌱 Aprendendo Atualmente
+
+Atualmente, estou focado em aprofundar meus conhecimentos em arquitetura de software, design patterns e aprimorar minhas habilidades em front-end com ReactJS. E Consolidar conhecimentos de cloud e deploy.
+
+<br>
+ 🚀 Experiência
+
+Sou desenvolvedor Full-stack em uma startup com expêriencia com TDD, Clean Architecture e entre outras boas práticas de desenvolvimento.
 <br><br><br>
 </p>
 <br>
