@@ -22,14 +22,11 @@
  <p align="left">Seja bem-vindo ao meu perfil GitHub e muito obrigado pela visita :) </br><br>
 Olá! Me chamo Guilherme Mesquita, sou um desenvolvedor full-stack apaixonado por tecnologia, atualmente com 20 anos de idade e cristão convicto. <br><br>Minha paixão pelo mundo da programação começou cedo e desde então tenho me dedicado a aprimorar minhas habilidades, especialmente nas tecnologias Node.js e Spring Framework nas quais possuo experiências profissionais no back-end e ReactJs e Vuejs no Front-end.
 <br><br>
-🌱 Aprendendo Atualmente
-
-Atualmente, estou focado em aprofundar meus conhecimentos em arquitetura de software, design patterns e aprimorar minhas habilidades em front-end com ReactJS. E Consolidar conhecimentos de cloud e deploy.
 
 <br>
  🚀 Experiência
 
-Sou desenvolvedor Full-stack em uma startup com expêriencia com TDD, Clean Architecture e entre outras boas práticas de desenvolvimento.
+Sou desenvolvedor Full-stack em uma startup com expêriencia com TDD, Clean Architecture e entre outras boas práticas de desenvolvimento. Trabalhei e em projetos mobile com Flutter e desenvolvimento de APIs com NodeJS
 <br><br><br>
 </p>
 <br>
