@@ -18,13 +18,18 @@
 
   
  <p align="left">Seja bem-vindo ao meu perfil GitHub e muito obrigado pela visita :) </br><br>
-Olá! Me chamo Guilherme Mesquita, sou um desenvolvedor full-stack apaixonado por tecnologia e um cristão convicto. <br><br>Minha paixão pelo mundo da programação começou cedo e desde então tenho me dedicado a aprimorar minhas habilidades, especialmente nas tecnologias Node.js e Spring Framework nas quais possuo experiências profissionais no back-end e ReactJs e Vuejs no Front-end.
+Olá! Meu nome é Guilherme Mesquita e sou um entusiasta da tecnologia e um devoto cristão. <br><br> Minha jornada nesse mundo fascinante começou cedo e desde então tenho me dedicado incansavelmente a aprimorar minhas habilidades. Minha experiência profissional abrange principalmente as tecnologias Node.js e Spring Framework no backend, e ReactJS e Vue.js no frontend. Trabalho com projetos mobile com Flutter e Dart também. <br><br>Vamos Conectar?
+Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Sinta-se à vontade para explorar meus projetos e entrar em contato comigo!
+<br><br>
+
+<h3>🎯  &nbsp; Minha Missão </h3>
+Estou em constante busca por desafios que me permitam crescer profissionalmente e pessoalmente. Acredito no poder da tecnologia para transformar vidas e estou comprometido em contribuir positivamente para esse ecossistema.
 <br><br>
 
 <br>
  🚀 Experiência
 
-Sou desenvolvedor Full-stack em uma startup com expêriencia com TDD, Clean Architecture e entre outras boas práticas de desenvolvimento. Trabalhei e em projetos mobile com Flutter e desenvolvimento de APIs com NodeJS
+Sou desenvolvedor Full-stack freelance. Mas antes da área trabalhei como design gráfico, logo posso familiaridade com UI e Ux também. Trabalhei em startup com foco no back-end em nodeJS (typescript) e no front-end com Vuejs, mas possuo expêriencias com Wordpress para o desenvolvimento de landing pages, ReactJs e Flutter para aplicações móveis.
 <br><br><br>
 </p>
 <br>
@@ -48,7 +53,8 @@ Sou desenvolvedor Full-stack em uma startup com expêriencia com TDD, Clean Arch
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="60"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="60"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="60"/>             
 </div>        
 
    ##
